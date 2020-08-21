@@ -1,5 +1,5 @@
 # Rocket-Diesel-Blog
-## Launching APIs in [Rocket](https://rocket.rs) with [Diesel](https://diesel.rs) as fuel and [Rust](https://rust.rs) as Pilot
+## Launching APIs in [Rocket](https://rocket.rs) with [Diesel](https://diesel.rs) as fuel and [Rust](https://www.rust-lang.org/) as Pilot
 
 > We are going to launch this Rocket to Moon 
 
