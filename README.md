@@ -21,12 +21,14 @@
     * Let's make sure CT can track the trajectory for our Rocket (Diesel connection)
     * Let's make sure we have a persistant connection with our Rocket (Connection state)
     * Find a way to send new instructions to Rocket on the fly (Migrations)
-5. ### Houston we have a problem
+5. ### Securing Connection with Spaceship and CT
+     * Adding security 
+6. ### Houston we have a problem
     * What to do in case we see aliens (In appropriate payload and data)
     * Can we safely land our Pilots in case everything fails (Make sure process doesn't die in case of any fatal error)
-6. ### Test Launch
+7. ### Test Launch
    * Let's create simulation environment for rocket (Setting up test suite)
    * Let's Test it (Writting test cases)
-6. ### Launch Day
+8. ### Launch Day
    * How to assemble the rocket on launch pad (Countinous Integration)
    * 5....,4.....,3.....,2....,1 Ignition (Deploy)
